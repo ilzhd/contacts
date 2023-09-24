@@ -16,11 +16,8 @@ export const sortContacts = (sortBy) => ({
   type: SORT_CONTACTS,
   payload: sortBy,
 });
-<<<<<<< Updated upstream
-=======
 
 export const searchContact = (searchWord) => ({
   type: 'SEARCH_CONTACTS',
   payload: searchWord,
 });
->>>>>>> Stashed changes
