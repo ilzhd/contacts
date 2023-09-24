@@ -42,6 +42,11 @@
     ]
   },
   "devDependencies": {
+<<<<<<< Updated upstream
     "gh-pages": "^6.0.0"
+=======
+    "gh-pages": "^6.0.0",
+    "redux-devtools-extension": "^2.13.9"
+>>>>>>> Stashed changes
   }
 }
